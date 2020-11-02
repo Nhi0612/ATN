@@ -21,7 +21,7 @@
             <a class="dropdown-item" href="login.php">Login</a>
           </div>
         </div>
-        <a href="./Order.php"> <img src="./assets/img/cart.png" alt="cart" class="icon1" ></a>
+        <a href="./order.php"> <img src="./assets/img/cart.png" alt="cart" class="icon1" ></a>
         <div style="margin-top: 30px; margin-left: 40px;">
             <a href="product.php"><button class="btn btn-outline-success my-2 my-sm-0" type="submit">Product</button></a>
          </div>
