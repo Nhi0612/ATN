@@ -28,7 +28,7 @@
                         <input type="text" placeholder="Password" name="password" class="text-input">
                     </i>    
                 </div>
-                <button type="submit" class="btn" style="background-color: #1e272e;" ><a href="home.php" style="color: #ecf0f1; text-decoration: none;">LOGIN</a></button>
+                <a href="home.php" style="color: #ecf0f1; text-decoration: none;"><button type="submit" class="btn" style="background-color: #1e272e;" >LOGIN</button></a>
                 <div class="link">
                     <a href="#" >Forget a password</a>
                     <a href="signup.php">Sign up</a>
